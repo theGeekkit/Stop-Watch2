@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body, .jumbotron { padding: 30px;
+  background-image: url(https://iili.io/r6bAF9.md.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
