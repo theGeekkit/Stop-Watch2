@@ -2,4 +2,9 @@
   background-color: antiquewhite;
   font-size: 120px;
   padding: 10px;
+  align-content: center;
+  align-items: center;
+}
+button {
+
 }
